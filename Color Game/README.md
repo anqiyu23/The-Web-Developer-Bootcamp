@@ -6,4 +6,4 @@ Given the RGB value, guess a color.
 Click "New Colors" to randomly change colors.
 Click "Play Again?" to start a new round.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FI7rucEFKuo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/FI7rucEFKuo/0.jpg)](http://www.youtube.com/watch?v=FI7rucEFKuo "Color Game Demo")
